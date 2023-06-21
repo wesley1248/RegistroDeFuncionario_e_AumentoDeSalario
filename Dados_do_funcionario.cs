@@ -25,10 +25,5 @@ namespace cadastro_de_funcionarios_e_aumento_de_salario {
         {
             get;  set;
         }
-
-        public void Adicionar_aumento(decimal a)
-        {
-            Salario = a;
-        }
     }
 }
