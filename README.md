@@ -30,10 +30,6 @@ Para executar o programa, é necessário ter instalado o ambiente de desenvolvim
 
 6. Ao final, os dados dos funcionários cadastrados serão exibidos no console.
 
-## Contribuição
-
-Este projeto foi desenvolvido como exemplo e não está aberto a contribuições no momento.
-
 ## Licença
 
 Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT). Sinta-se à vontade para utilizar, modificar e distribuir o código de acordo com os termos da licença.
